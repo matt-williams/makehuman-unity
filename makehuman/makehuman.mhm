@@ -1,0 +1,25 @@
+# Written by MakeHuman 1.0.2
+version v1.0.2
+tags makehuman
+hair mhair01 710b4c8c-d34e-47a8-9d1d-e3f623bb8d95
+eyes HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6
+clothes malesuit01HRes c9df3c39-98e0-43d5-92ea-c48115c0e3a8
+clothes shoes02 8887caca-d6fb-4d73-af10-1d4fb740a936
+clothesHideFaces True
+gendered BreastFirmness 0.500000
+gendered BreastSize 0.500000
+macro Weight 0.500000
+macro Gender 0.870000
+macro Age 0.500000
+macro Height 0.500000
+macro Asian 0.543000
+macro African 0.007011
+macro Caucasian 0.449989
+macro Muscle 0.500000
+macro BodyProportions 0.500000
+background enabled False
+skinMaterial skins/young_asian_male/young_asian_male.mhmat
+material mhair01 710b4c8c-d34e-47a8-9d1d-e3f623bb8d95 hair/mhair01/materials/male01_black.mhmat
+material HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6 eyes/materials/brown.mhmat
+skeleton basic.json
+subdivide False
